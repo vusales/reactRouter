@@ -11,3 +11,99 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.home-container-fluid{
+  background-image: url("https://i.pinimg.com/originals/67/b3/bc/67b3bc30d6f89072bcda06000aaf6587.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 750px;
+}
+.small-home-con{
+ background-color: rgba(0, 0, 0, 0.733); 
+ font-size: 20px;
+ width: 80%;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: space-around;
+ margin: 0 auto;
+ color: white;
+ height: 300px;
+ border-radius: 15px;
+}
+.small-home-con .lnk {
+  text-decoration: none;
+  color: yellow;
+  font-size: 30px;
+} 
+
+/* islemir */
+.llnnkk {
+  color: green;
+}
+
+
+.sardines-container , .chips-container {
+  min-height: 760px;
+  background-color: orangered;
+  position: relative; 
+}
+.sardines-container{
+  background-color: skyblue !important;
+}
+
+.sardines-button-container{
+ background-color: rgba(0, 0, 0, 0.555); 
+ width: 20%;
+  height: 200px;
+  margin: 0 auto;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
+  color:white ;
+  margin: 0 auto;
+  position: absolute;
+  z-index: 2;
+  left:580px ; 
+  top:280px;
+} 
+
+.sardines-gohome {
+  text-decoration: none;
+  font-size: 30px;
+  color:white;
+}
+.sardines-gohome:hover {
+  color:yellow ; 
+  font-weight: bolder;
+  transition: ease-in-out 1s;
+}
+
+.Addingimg {
+  position: absolute;
+  height: 150px;
+  width: 200px;
+}
+
+.rotateCola{
+  width:400px;
+  height: 400px;
+  position: relative;
+  animation: rotatesoda 4s linear infinite;
+}
+
+@keyframes rotatesoda {
+  0% {
+    transform:rotate(0deg);
+  }
+  100% {
+    transform:rotate(360deg);
+  }
+}
+
+.soda-container{
+  background-color: gray;
+  min-height: 760px;
+}
+
