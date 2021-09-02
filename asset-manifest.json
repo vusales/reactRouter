@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactRouter/static/css/main.75c42507.chunk.css",
+    "main.js": "/reactRouter/static/js/main.9cc4a436.chunk.js",
+    "main.js.map": "/reactRouter/static/js/main.9cc4a436.chunk.js.map",
+    "runtime-main.js": "/reactRouter/static/js/runtime-main.2e323169.js",
+    "runtime-main.js.map": "/reactRouter/static/js/runtime-main.2e323169.js.map",
+    "static/js/2.2a87f215.chunk.js": "/reactRouter/static/js/2.2a87f215.chunk.js",
+    "static/js/2.2a87f215.chunk.js.map": "/reactRouter/static/js/2.2a87f215.chunk.js.map",
+    "static/js/3.280c1b1b.chunk.js": "/reactRouter/static/js/3.280c1b1b.chunk.js",
+    "static/js/3.280c1b1b.chunk.js.map": "/reactRouter/static/js/3.280c1b1b.chunk.js.map",
+    "index.html": "/reactRouter/index.html",
+    "static/css/main.75c42507.chunk.css.map": "/reactRouter/static/css/main.75c42507.chunk.css.map",
+    "static/js/2.2a87f215.chunk.js.LICENSE.txt": "/reactRouter/static/js/2.2a87f215.chunk.js.LICENSE.txt",
+    "static/media/lays.eed251c8.png": "/reactRouter/static/media/lays.eed251c8.png",
+    "static/media/sardines.3dd9a594.png": "/reactRouter/static/media/sardines.3dd9a594.png",
+    "static/media/soda.c02cbdde.png": "/reactRouter/static/media/soda.c02cbdde.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e323169.js",
+    "static/js/2.2a87f215.chunk.js",
+    "static/css/main.75c42507.chunk.css",
+    "static/js/main.9cc4a436.chunk.js"
+  ]
+}
