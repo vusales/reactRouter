@@ -10,7 +10,7 @@ class Soda extends React.Component{
                     <div className="row">
                         <div className="col-4 mt-5 p-5">
                             <div>
-                                <img className="rotateCola" src={soda}/>
+                                <img className="rotateCola" src={soda} alt="soda"/>
                             </div>
                         </div>
                         <div className="col-4 p-5">
@@ -21,7 +21,7 @@ class Soda extends React.Component{
                         </div>
                         <div className="col-4 mt-5 p-5">
                             <div>
-                                <img className="rotateCola" src={soda}/>
+                                <img className="rotateCola" src={soda} alt="soda"/>
                             </div>
                         </div>
                     </div>
